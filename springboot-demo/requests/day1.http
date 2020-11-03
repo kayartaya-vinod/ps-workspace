@@ -1,0 +1,11 @@
+http://localhost:2000/api/persons
+
+
+###
+
+GET /api/persons/1256 HTTP/1.1
+Host: localhost:2000
+Accept: application/json
+
+###
+
